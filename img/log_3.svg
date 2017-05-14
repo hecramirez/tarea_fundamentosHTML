@@ -2,14 +2,19 @@
 <svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
  <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
  <defs>
-  <radialGradient cy="1" cx="0.811218" fy="0.660156" fx="0.600281" spreadMethod="repeat" id="svg_24">
-   <stop offset="0" stop-color="#ff0000"/>
-   <stop offset="1" stop-color="#00ffff"/>
+  <filter id="svg_36_blur" x="-50%" y="-50%" width="200%" height="200%">
+   <feGaussianBlur stdDeviation="0.1"/>
+  </filter>
+  <radialGradient fy="0.734375" fx="1" gradientTransform="rotate(-90,1,1) translate(0,0.5265086206896552) scale(1,0.4734913793103448)" cy="1" cx="1" spreadMethod="repeat" id="svg_12">
+   <stop stop-color="#939393" offset="0"/>
+   <stop stop-color="#6c6c6c" offset="0.795593"/>
+   <stop stop-color="#6c6c6c" offset="1"/>
   </radialGradient>
  </defs>
  <g>
   <title>Layer 1</title>
-  <path transform="rotate(-37.037113189697266 206.3132934570313,158.7610778808594) " id="svg_5" d="m97,97c456,316 -136,-13 -57,26c79,39 285,-119 340,12" stroke-width="5" stroke="#000000" fill="url(#svg_24)"/>
-  <text stroke="#000000" transform="matrix(2.310091000603734,0,0,4.766640428757115,-469.1690136678891,-692.6290768570597) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_17" y="178.902439" x="308.45231" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">HR</text>
+  <path id="svg_5" fill="url(#svg_12)" stroke-width="5" d="m334.558878,279.28319c540.620954,265.148893 -546.987755,-374.49876 -85.27753,-157.355373c461.710225,217.143389 -350.883288,-31.992278 37.342482,207.910889" transform="rotate(-42.67466735839844 310.5766906738281,210.4538879394531) " stroke="#000000"/>
+  <text id="svg_36" fill="#191919" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="260.145158" y="382.484884" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(2.6983635425567614,0,0,4.615384578704833,-287.6377244032919,-1449.8461418151855) " stroke="#000000" filter="url(#svg_36_blur)" font-weight="bold">HR</text>
+  <text id="svg_38" fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" fill-opacity="0.88" x="211.692685" y="115.370713" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="rotate(-14.5277099609375 247.31443786621077,192.6679687499999) matrix(2.007967472076416,0,0,0.624708600579627,-177.7330144122243,125.63637168133505) " stroke="#000000" font-weight="bold">Diseños</text>
  </g>
 </svg>
