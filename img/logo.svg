@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient y2="0.945313" x2="0.975281" y1="0.128906" x1="0.115906" spreadMethod="pad" id="svg_29">
+   <stop offset="0.002625" stop-color="#ffff00"/>
+   <stop offset="0.89325" stop-color="#0000ff"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text transform="matrix(2.6187637316997012,0,0,5.011518727417382,-84.37134013494298,-297.425408032557) " stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_14" y="114.728205" x="144.712633" stroke-width="0" fill="#000000">HR</text>
+  <path stroke="#000000" id="svg_25" d="m259,79.777475c-112,-197.362684 -26,93.697436 -25,76.752155c1,-16.945281 224,122.604091 248,152.507528c24,29.903437 -261,-5.980687 -161,-22.925968c100,-16.945281 50,-8.971031 -62,-206.333715z" stroke-opacity="0.06" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="url(#svg_29)"/>
+ </g>
+</svg>
